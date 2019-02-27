@@ -1,0 +1,48 @@
+#image{
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  display: block;
+  max-width: 60%
+}
+#title{
+  text-align: center;
+  font-family: "Trebuchet MS", sans-serif;
+  padding-top: 30px;
+}
+#title-given{
+  text-align: center;
+  font-family: "Trebuchet MS", sans-serif;
+}
+#img-caption{
+  padding: 10px;
+  text-align: center;
+  font-family: "Trebuchet MS", sans-serif;
+}
+#main{
+  background-color: #eee;
+}
+#img-div{
+  background-color: white;
+  margin: 1em;
+}
+#facts{
+  max-width: 50vw;
+  display: block;
+  margin-left:auto;
+  margin-right: auto;
+  align-self: auto;
+}
+li{
+  text-align: left;
+  font-family: "Trebuchet MS", sans-serif;
+  padding: 4px;
+}
+#link{
+  display: block;
+  text-align: center;
+  font-family: "Trebuchet MS", sans-serif;
+  padding-top: 30px;
+  font-size: 1.2em;
+  padding-bottom: 20px;
+}
